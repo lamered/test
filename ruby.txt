@@ -1,0 +1,41 @@
+ruby books
+
+Изучаем Ruby (Майкл Фитцджеральд)
+http://www.ozon.ru/context/detail/id/3858825/?partner=trueruby
+
+Ruby on Rails. Быстрая веб-разработка (Брюс А. Тейт, Курт Ниббс)
+http://www.ozon.ru/context/detail/id/3839212/?partner=trueruby
+
+Гибкая разработка веб-приложений в среде Rails (Д. Томас, Д. Х. Хэнссон)
+http://www.ozon.ru/context/detail/id/3656024/?partner=trueruby
+
+Rails. Сборник рецептов (Чад Фоулер)
+http://www.ozon.ru/context/detail/id/3632386/?partner=trueruby
+
+Программирование на языке Ruby (Хэл Фунтон)
+http://www.ozon.ru/context/detail/id/3411405/?partner=trueruby
+
+
+ruby blogs
+
+RubyFlow.ru
+http://rubyflow.ru
+
+Группа Ruby on Rails
+http://groups.google.com/group/ror2ru
+
+Ruby On Rails по-русски
+http://community.livejournal.com/ru_ror
+
+Язык Ruby
+http://community.livejournal.com/ruby_ru
+
+Ruby Rails
+http://ruby.inuse.ru
+
+
+ruby hosting
+
+110MB – Free Hosting Company
+Отличный бесплатный хостинг с поддержкой множества технологий, в т.ч. и Ruby on Rails.
+http://110mb.com/

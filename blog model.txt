@@ -1,0 +1,30 @@
+blog model
+
+table_users
+	user_id
+	login
+	password
+	info
+
+table_articles
+	article_id
+	user_id
+	title
+	body
+	created_at
+	updated_at
+
+table_answers
+	answer_id
+	user_id
+	article_id
+	body
+	created_at
+
+table_tags
+	tag_id
+	body
+
+table_arttags
+	article_id
+	tag_id

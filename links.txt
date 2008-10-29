@@ -1,0 +1,5 @@
+видео курс
+http://excess.org/article/2008/07/ogre-git-tutorial/
+
+http://edgyu.excess.org/git-tutorial/2008-07-09/intro-to-git.pdf
+
