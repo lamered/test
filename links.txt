@@ -3,3 +3,6 @@ http://excess.org/article/2008/07/ogre-git-tutorial/
 go to the master
 http://edgyu.excess.org/git-tutorial/2008-07-09/intro-to-git.pdf
 
+ping
+
+go to the experimental
